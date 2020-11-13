@@ -1,0 +1,15 @@
+version: "3.4"
+services:
+ subconverter:
+  build: .
+  image: my_subconverter
+  privileged: true
+  restart: always
+  tty: true
+  stdin_open: true
+  deploy:
+    update_config:
+      order: start-first
+  ports:
+    - "8004:25500"
+  container_name: my_subconverter

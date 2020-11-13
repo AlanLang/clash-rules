@@ -1,0 +1,21 @@
+kind: pipeline
+name: cicd
+
+steps:
+  - name: build
+    image: docker/compose
+    volumes:
+      - name: docker_socket
+        path: /var/run/docker.sock
+    environment:
+      DOWNLOAD_URL:
+        from_secret: download_url
+    commands:
+      - wget $DOWNLOAD_URL
+      - tar -zxvf subconverter_linux64.tar.gz
+      - docker-compose up -d --build
+
+volumes:
+  - name: docker_socket
+    host:
+      path: /var/run/docker.sock
