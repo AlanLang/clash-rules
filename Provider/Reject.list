@@ -1307,6 +1307,7 @@ DOMAIN-SUFFIX,adstat.cp11.ott.cibntv.net
 DOMAIN-SUFFIX,adstextview.qq.com
 DOMAIN-SUFFIX,adstil.indiatimes.com
 DOMAIN-SUFFIX,ad-stir.com
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
 DOMAIN-SUFFIX,adstream.123.sogoucdn.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
@@ -2956,7 +2957,6 @@ DOMAIN-SUFFIX,downloada.dewmobile.net
 DOMAIN-SUFFIX,downloadb.dewmobile.net
 DOMAIN-SUFFIX,downmobile.kugou.com
 DOMAIN-SUFFIX,dp.559.cc
-DOMAIN-SUFFIX,dp3.qq.com
 DOMAIN-SUFFIX,dpm.demdex.net
 DOMAIN-SUFFIX,dps.499.cn
 DOMAIN-SUFFIX,dps.shouji56.com
@@ -8322,6 +8322,7 @@ URL-REGEX,https?://(a?d|sax)\d.sina.com
 URL-REGEX,https?://d\d.sinaimg.cn
 URL-REGEX,https?://dl.app.gtja.com/.+\d+.jpg$
 URL-REGEX,https?://impservice.+?youdao.com
+URL-REGEX,https?://mi.gdt.qq.com/gdt_mview.fcg
 URL-REGEX,https?://notice.send-anywhere.com/banner
 URL-REGEX,https?://sax\w?.sina.cn
 URL-REGEX,https?://sax\w?.sina.com.cn
