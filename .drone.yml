@@ -12,7 +12,7 @@ steps:
         from_secret: download_url
     commands:
       - wget $DOWNLOAD_URL
-      - tar -zxvf subconverter_linux64.tar.gz
+      - tar -zxf subconverter_linux64.tar.gz
       - docker-compose up -d --build
 
 volumes:
