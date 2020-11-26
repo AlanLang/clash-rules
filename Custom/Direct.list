@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,ccmdls-stls-cn.adobe.com
 DOMAIN-SUFFIX,plex.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,jiandaoyun.com
+DOMAIN-SUFFIX,qiecdn.com
 IP-CIDR,192.168.1.1/16,no-resolve
