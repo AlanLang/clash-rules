@@ -262,46 +262,6 @@ DOMAIN-SUFFIX,bfshan.cn
 # REJECT
 
 # > Client
-DOMAIN-KEYWORD,admaster
-DOMAIN-KEYWORD,admdfs
-DOMAIN-KEYWORD,adnewnc
-DOMAIN-KEYWORD,adsage
-DOMAIN-KEYWORD,adsame
-DOMAIN-KEYWORD,adsensor
-DOMAIN-KEYWORD,adserver
-DOMAIN-KEYWORD,adservice
-DOMAIN-KEYWORD,adsmogo
-DOMAIN-KEYWORD,adsrvmedia
-DOMAIN-KEYWORD,adsserving
-DOMAIN-KEYWORD,adsystem
-DOMAIN-KEYWORD,advert
-DOMAIN-KEYWORD,adwords
-DOMAIN-KEYWORD,allyes
-DOMAIN-KEYWORD,analysis
-DOMAIN-KEYWORD,analysys
-DOMAIN-KEYWORD,applovin
-DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,dnserror
-DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,duomeng
-DOMAIN-KEYWORD,dwtrack
-DOMAIN-KEYWORD,fenxi
-DOMAIN-KEYWORD,guanggao
-DOMAIN-KEYWORD,inmobi
-DOMAIN-KEYWORD,mobaders
-DOMAIN-KEYWORD,omgmta
-DOMAIN-KEYWORD,openx
-DOMAIN-KEYWORD,partnerad
-DOMAIN-KEYWORD,securepubads
-DOMAIN-KEYWORD,socdm
-DOMAIN-KEYWORD,supersonicads
-DOMAIN-KEYWORD,taboola
-DOMAIN-KEYWORD,uedas
-DOMAIN-KEYWORD,umtrack
-DOMAIN-KEYWORD,uploadMobileData
-DOMAIN-KEYWORD,wlmonitor
-DOMAIN-KEYWORD,zjtoolbar
-
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,001union.com
@@ -2920,10 +2880,6 @@ DOMAIN-SUFFIX,dot.eporner.com
 DOMAIN-SUFFIX,dot2.eporner.com
 DOMAIN-SUFFIX,dotmore.com.tw
 DOMAIN-SUFFIX,dou777.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.ctfile.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,doubleclick.tv002.com
 DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com
 DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,doudao.cn
@@ -3738,8 +3694,6 @@ DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,good.ta80.com
 DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,goolpter.com
 DOMAIN-SUFFIX,gopig.io
 DOMAIN-SUFFIX,gorgon.youdao.com
