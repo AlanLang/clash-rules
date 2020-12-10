@@ -18,8 +18,13 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,zmzfile.com
 
-# > Sony PSX
+# > Sony
 USER-AGENT,RemotePlay*
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
@@ -150,6 +155,7 @@ DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
+DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,lucifr.com
