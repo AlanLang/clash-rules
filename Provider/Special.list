@@ -19,6 +19,9 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mzstatic.com
 
+# > Epic
+DOMAIN-KEYWORD,epicgames
+
 # > Google
 DOMAIN-KEYWORD,mtalk.google.com
 DOMAIN,safebrowsing.googleapis.com
@@ -26,6 +29,11 @@ DOMAIN-SUFFIX,dl.google.com
 
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,xbox.com,Microsoft
+DOMAIN-SUFFIX,xboxlive.com,Microsoft
 
 # > Mugglepay
 DOMAIN-SUFFIX,invoice.mugglepay.com
