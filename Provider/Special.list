@@ -42,9 +42,6 @@ DOMAIN-SUFFIX,invoice.mugglepay.com
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
 
-# > Spotify
-DOMAIN-SUFFIX,ap.spotify.com
-
 # > Steam
 USER-AGENT,Steam*
 DOMAIN-SUFFIX,pinyuncloud.com
