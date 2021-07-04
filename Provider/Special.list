@@ -19,6 +19,9 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mzstatic.com
 
+# > Duet
+USER-AGENT,duet*
+
 # > Epic
 DOMAIN-KEYWORD,epicgames
 
