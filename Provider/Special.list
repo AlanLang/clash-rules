@@ -31,6 +31,7 @@ DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,dl.google.com
 
 # > Microsoft
+USER-AGENT,Microsoft%20Remote%20Desktop*
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
